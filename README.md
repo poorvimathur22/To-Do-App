@@ -12,8 +12,8 @@ An interactive and responsive To-Do List web app built using **HTML, CSS, and Ja
 
 ## 📸 Preview
 
-![Screenshot](images/to-do-app-preview.png) <!-- Replace with an actual screenshot path if available -->
-
+![Screenshot](images/to-do-app-preview.png)
+![Screenshot](images/2-preview.png) 
 ## 🛠️ Tech Stack
 
 - **HTML5**

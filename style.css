@@ -11,8 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url("images/background-image.jpg") 
-    no-repeat center center/cover;}
+    background: url("images/background-image.jpg") no-repeat center center/cover;}
 
     .container {
         display: flex;
@@ -90,7 +89,6 @@ body{
         border-radius: 50%;
         font-size: 1.5rem;
     }
-
 
     .input-area {
         display: flex;
